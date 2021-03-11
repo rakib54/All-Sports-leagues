@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 import "./AllLeagues.css"
 import { useHistory } from 'react-router-dom';
-<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
 
 
 const AllLeagues = (props) => {

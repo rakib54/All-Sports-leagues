@@ -26,11 +26,11 @@ const LeagueDetails = () => {
                 <p>{leagueDetails.strDescriptionEN}</p>
             </div>
             <div className=" Social d-flex justify-content-center">
-                    <a href={`https://${leagueDetails.strTwitter}`} target="_blank">
+                    <a href={`https://${leagueDetails.strTwitter}`}>
                         <FontAwesomeIcon icon={faTwitter} size="3x"/></a>
-                    <a href={`https://${leagueDetails.strFacebook}`} target="_blank">
+                    <a href={`https://${leagueDetails.strFacebook}`} >
                         <FontAwesomeIcon icon={faFacebookF} size="3x" /></a>
-                    <a href={`https://${leagueDetails.strYoutube}`} target="_blank">
+                    <a href={`https://${leagueDetails.strYoutube}`}>
                         <FontAwesomeIcon icon={faYoutube} size="3x" /></a>
             </div>
             
