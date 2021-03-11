@@ -1,0 +1,15 @@
+.AllLeaguesStyle{
+    border: 1px solid red;
+    background-color: rgb(195, 65, 51);
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+.AllLeaguesStyle button{
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+
+}

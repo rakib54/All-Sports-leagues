@@ -1,0 +1,14 @@
+.LeagueImg img{
+    height: 300px;
+    width: 100%;
+}
+.LeagueStyle{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap: 10px;
+    margin-left: 20px;
+
+}
+.LeagueImg h1{
+    color: rgb(236, 63, 32);
+}

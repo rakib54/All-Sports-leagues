@@ -1,0 +1,27 @@
+.LeagueImg{
+    background-image: url("https://www.stirworld.com/images/see/1370_XianStadium_1.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    color: rgb(64, 6, 158);
+    text-align: center;
+    
+    
+}
+.LeagueImg img{
+    height: 60%;
+    width: 50%;
+}
+.SingleStyle{
+    background-color: rgb(70, 70, 194);
+    color: white;
+}
+
+.P-Style{
+    margin: 30px;
+}
+.Social a{
+    margin: 10px;
+    color: white;
+}
